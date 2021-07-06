@@ -50,3 +50,27 @@ p{
     margin-right: 100px;
     margin-top: 100px;
 }
+.my-recipies{
+text-align: center;
+
+}
+.my-recipies p {
+    text-align: center;
+}
+.first-recipie{
+padding: 20px;
+width: 250px;
+box-shadow: 10px 10px  20px gray;
+border-radius: 20px;
+margin-left: 100px;
+}
+.up img{
+    width: 100%;
+}
+.down{
+    width: 100%}
+
+.three-recipie{
+    display: flex;
+    margin-top: 50px;
+}
