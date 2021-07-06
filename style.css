@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    line-height: .5;
+}
+h2{
+    font-size: 30px;
+}
+.gray-color{
+    color: rgb(93, 92, 92);
+}
+.orange-color{
+    color: orange;
+}
+p{
+    color: #888;
+    text-align: justify;
+}
+.health-tips{
+    display: flex;
+    margin-bottom: 70px;
+
+}
+.half-width{
+    width: 40%;
+    padding: 5%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+
+}
+
+.margin{
+    margin-top: 70px;
+}
+.about-me{
+    background-image: url(./images/7.png);
+    background-repeat: no-repeat;
+}
+.about-me-margin{
+    margin-right: 100px;
+    margin-top: 100px;
+}
