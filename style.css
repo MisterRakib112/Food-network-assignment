@@ -74,3 +74,68 @@ margin-left: 100px;
     display: flex;
     margin-top: 50px;
 }
+.new-link{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+hr{
+    border: 4px solid black;
+    width: 80%;
+}
+.extra-mark{
+    margin-top: 100px;
+}
+.cooking-item{
+    text-align: center;
+}
+.cooking-item p{
+    text-align: center;
+}
+.my-suggestion h3{
+    margin-top: -25px;
+    font-weight: 500;
+}
+.my-suggestion{
+    margin-left: 127px;
+}
+.chicken-basil{
+    width: 250px;
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 75px;
+}
+.chicken-basil-text{
+    margin-top: -25px;
+    padding-left: 10px;
+}
+.chicken-basil div img{
+    width: 100%;
+}
+.food-items{
+    display: flex;
+}
+.email{
+    display: flex;
+}
+.email p{
+    margin-top: -25px;
+}
+.form-tag{
+    margin-left: 200px;
+    margin-top: -25px;
+}
+.special-offers{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 128px;
+    padding-top: 8px;
+}
+footer p{
+    text-align: center;
+    margin-top: -33px;
+    font-size: 13px;
+}
